@@ -2,6 +2,8 @@
 
 **GameBundler** is a tool designed to save gamers time by managing third-party applications associated with their games. 
 
+![Preview](Preview.png)
+
 ## 🎯 **Overview**
 
 As gamers, we often use various third-party tools and applications alongside our games. Whether it's voice chat, performance monitoring, or game-enhancing apps, launching each one individually can be time-consuming and tedious.
